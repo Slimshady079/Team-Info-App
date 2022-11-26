@@ -40,6 +40,8 @@ n/a
 
 [github](https://github.com/https://github.com/Slimshady079/Team-Info-App)
 
-## [Untitled_ Nov 25, 2022 9_26 PM.webm](https://user-images.githubusercontent.com/115417230/204072234-e6d41a20-71a1-4c76-87aa-6ae0bc30291b.webm)
 Video:
+
+## [Untitled_ Nov 25, 2022 9_26 PM.webm](https://user-images.githubusercontent.com/115417230/204072234-e6d41a20-71a1-4c76-87aa-6ae0bc30291b.webm)
+
 
