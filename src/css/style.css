@@ -1,0 +1,29 @@
+:root {
+    --card-bg-color: rgb(121, 121, 241);
+    --header-bg-color: rgb(255, 133, 133);
+    scroll-behavior: smooth;
+}
+
+.header  {
+    background-color: var(--header-bg-color);
+    color: white;
+    text-align: center;
+    padding: 1.75%;
+}
+
+.card-background {
+    background-color: var(--card-bg-color);
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 5%;
+}
+
+.card {
+    margin: .8%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
